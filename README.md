@@ -30,6 +30,7 @@ The **Cluster Matrix** is the centrepiece of Hreflang Pro. It's a visual grid sh
 
 At a glance, you can see exactly where your hreflang implementation breaks down. The matrix can be exported as a **PNG image** for reports and client deliverables.
 
+![Whiteboard Screenshot](https://raw.githubusercontent.com/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design/9cc942d306b450b987e47cd1233d8e301d0e3656/uploads/2026-03-09T20-45-25-896Z-q3jprr4ns.png)
 ---
 
 ## How to Use
