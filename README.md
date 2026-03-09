@@ -16,6 +16,8 @@ International SEO relies on hreflang tags to tell search engines which language 
 
 Hreflang Pro automates the entire audit process. Instead of manually checking every tag across every page, the extension builds a complete picture of your hreflang cluster in seconds.
 
+![Screenshot](https://raw.githubusercontent.com/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design/1c38beeaa2c7579c0b06643c1c98d3a2327c3c2b/uploads/2026-03-09T20-43-40-176Z-od8379nwm.png)
+
 ---
 
 ## Key Feature: Cluster Matrix
